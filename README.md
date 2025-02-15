@@ -22,3 +22,5 @@ Clone the repository and navigate to the project directory:
 ```sh
 git clone <repository-url>
 cd <repository-directory>
+# **▶️ Run the Program**
+Execute the script using:
